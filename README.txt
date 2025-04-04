@@ -10,7 +10,7 @@ En el trabajo presenté lo siguiente:
 - Los objetos que se guardaran en el array de los pedidos (aire acondicionado, mensulas, etc).
 
 - Funciones que hacen lo siguiente:
- - sumarPedido(): Suma el precio de cada objeto y lo va sumando a un total.
+ - sumarPedido(): Toma el precio de cada objeto y lo va sumando a un total.
  - agregarProducto(): Agrega los productos que seleccione el usuario a el parametro "producto" y este se guarda en el array "pedido".
  - crearUsuario(): Mediante un prompt pide ingresar "usuario" y "contraseña", el objeto "cuentas". 
 		   toma el valor de lo que ingresó el usuario y se guarda en "usuarios" mediante .push.
